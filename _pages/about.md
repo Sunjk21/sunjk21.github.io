@@ -1,8 +1,9 @@
 ---
-permalink: /
 title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+permalink: /cv/
 author_profile: true
+excerpt: "About me"
+
 redirect_from: 
   - /about/
   - /about.html
