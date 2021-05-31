@@ -1,6 +1,6 @@
 ---
 title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-permalink: /cv/
+permalink: /about/
 author_profile: true
 excerpt: "About me"
 
