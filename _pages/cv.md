@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Jiankun Sun"
+permalink: /
 author_profile: true
 redirect_from:
   - /resume
@@ -9,11 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+Research overview
+======
+Jiankun Sun received the B.Sc. degree with honors in Computer Science and Technology from [University of Science and Technology Beijing](https://en.ustb.edu.cn/) in 2017. He is currently a Ph.D. student in the School of Computer and Communication Engineering, University of Science and Technology Beijing. His research interests include computational intelligence, natural language processing, and distributed system. Now his research focuses on malware detection and analysis. Jiankun Sun has published in his areas of interest in several journals, such as IEEE TRANSACTIONS ON INDUSTRIAL INFORMATICS, IEEE TRANSACTIONS ON NETWORK SCIENCE AND ENGINEERING, and JOURNAL OF CLOUD COMPUTING.
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. Student    University of Science and Technology Beijing   2017-present
+* Bachelor         University of Science and Technology Beijing   2013-2017
 
 Work experience
 ======
@@ -29,31 +32,25 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Tensorflow, Keras, Pytorch
+* Matlab, Python
+* Linux (Ubuntu), Windows
 
-Publications
+Peer-refereed journal publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+* Sun, J., Luo, X., Gao, H., Wang, W., Gao, Y., & Yang, X. ``Categorizing malware via a word2vec-based temporal convolutional network schem''. Journal of Cloud Computing, 2020. (Impact factor=2.788)
+
+* **Sun, J.**, Du, X., Zhang, B., Wang, L., Jin, W., Zhang, Q., Luo, X., & Zhu, Y. “A comparison of tree-based ensemble algorithms on the main element content of monoclinal pyroxene in mafic-ultramafic rocks”. Geological Bulletin of China, 2019. (In Chinese)
+
+* Zhang, B., **Sun, J.**, Luo, X., Jin, W., Wang, L., Du, X., Chen, W., Du, J., Zhang, Q., & Zhu, Y. “Data analysis of major and trace element of gabbro clinopyroxene from different tectonic setting”. Earth Science Frontiers, 2019. (In Chinese)
+
+* Huang, J., Li, J., Chen, Y., **Sun, J.**, & Shi, P. “Burst Hotspots Dynamic Detection and Tracking on Large-Scale Text Stream”. IEEE Access, 7, 30913-30924. (Impact factor=3.745)
+
+* **Sun, J.**, Wang, Z., Luo, X., Shi, P., Wang, W., Wang, L., Wang, J. H., & Zhao, W. “A parallel recommender system using a collaborative filtering algorithm with correntropy for social networks”. IEEE Transactions on Network Science and Engineering, 2018. (Impact factor=5.213)
+
+* Luo, X., **Sun, J.**, Wang, L., Wang, W., Zhao, W., Wu, J., Wang, J. H. & Zhang, Z. “Short-term wind speed forecasting via stacked extreme learning machine with generalized correntropy”. IEEE Transactions on Industrial Informatics, 2018. (Impact factor=9.112, ESI Top Highly Cited Paper)
   
-Talks
+Service
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Journal Reviewer: IEEE Transactions on Network Science and Engineering, IEEE Access and PLOS ONE.
