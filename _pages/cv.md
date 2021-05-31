@@ -36,9 +36,3 @@ Peer-refereed journal publications
 Service
 ======
 * Journal Reviewer: IEEE Transactions on Network Science and Engineering, IEEE Access and PLOS ONE.
-
-Skills
-======
-* Tensorflow, Keras, Pytorch
-* Matlab, Python
-* Linux (Ubuntu), Windows
