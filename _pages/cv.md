@@ -1,5 +1,5 @@
 ---
-layout: archive
+
 title: "Jiankun Sun"
 permalink: /
 author_profile: true
