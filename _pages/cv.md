@@ -15,31 +15,13 @@ Jiankun Sun received the B.Sc. degree with honors in Computer Science and Techno
 
 Education
 ======
-* Ph.D. Student    University of Science and Technology Beijing   2017-present
-* Bachelor         University of Science and Technology Beijing   2013-2017
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Tensorflow, Keras, Pytorch
-* Matlab, Python
-* Linux (Ubuntu), Windows
+* Ph.D in University of Science and Technology Beijing, 2022 (expected)
+* B.Eng. in University of Science and Technology Beijing, 2017
 
 Peer-refereed journal publications
 ======
 
-* Sun, J., Luo, X., Gao, H., Wang, W., Gao, Y., & Yang, X. ``Categorizing malware via a word2vec-based temporal convolutional network schem''. Journal of Cloud Computing, 2020. (Impact factor=2.788)
+* **Sun, J.**, Luo, X., Gao, H., Wang, W., Gao, Y., & Yang, X. ``Categorizing malware via a word2vec-based temporal convolutional network schem''. Journal of Cloud Computing, 2020. (Impact factor=2.788)
 
 * **Sun, J.**, Du, X., Zhang, B., Wang, L., Jin, W., Zhang, Q., Luo, X., & Zhu, Y. “A comparison of tree-based ensemble algorithms on the main element content of monoclinal pyroxene in mafic-ultramafic rocks”. Geological Bulletin of China, 2019. (In Chinese)
 
@@ -54,3 +36,9 @@ Peer-refereed journal publications
 Service
 ======
 * Journal Reviewer: IEEE Transactions on Network Science and Engineering, IEEE Access and PLOS ONE.
+
+Skills
+======
+* Tensorflow, Keras, Pytorch
+* Matlab, Python
+* Linux (Ubuntu), Windows
