@@ -21,17 +21,17 @@ Education
 Peer-refereed journal publications
 ======
 
-* **Sun, J.**, Luo, X., Gao, H., Wang, W., Gao, Y., & Yang, X. ``Categorizing malware via a word2vec-based temporal convolutional network schem''. Journal of Cloud Computing, 2020. (Impact factor=2.788)
+* **Sun, J.**, Luo, X., Gao, H., Wang, W., Gao, Y., & Yang, X. &ldquo;Categorizing malware via a word2vec-based temporal convolutional network scheme&rdquo;. Journal of Cloud Computing, 2020. (Impact factor=2.788)
 
-* **Sun, J.**, Du, X., Zhang, B., Wang, L., Jin, W., Zhang, Q., Luo, X., & Zhu, Y. “A comparison of tree-based ensemble algorithms on the main element content of monoclinal pyroxene in mafic-ultramafic rocks”. Geological Bulletin of China, 2019. (In Chinese)
+* **Sun, J.**, Du, X., Zhang, B., Wang, L., Jin, W., Zhang, Q., Luo, X., & Zhu, Y. &ldquo;A comparison of tree-based ensemble algorithms on the main element content of monoclinal pyroxene in mafic-ultramafic rocks&rdquo;. Geological Bulletin of China, 2019. (In Chinese)
 
-* Zhang, B., **Sun, J.**, Luo, X., Jin, W., Wang, L., Du, X., Chen, W., Du, J., Zhang, Q., & Zhu, Y. “Data analysis of major and trace element of gabbro clinopyroxene from different tectonic setting”. Earth Science Frontiers, 2019. (In Chinese)
+* Zhang, B., **Sun, J.**, Luo, X., Jin, W., Wang, L., Du, X., Chen, W., Du, J., Zhang, Q., & Zhu, Y. &ldquo;Data analysis of major and trace element of gabbro clinopyroxene from different tectonic setting&rdquo;. Earth Science Frontiers, 2019. (In Chinese)
 
-* Huang, J., Li, J., Chen, Y., **Sun, J.**, & Shi, P. “Burst Hotspots Dynamic Detection and Tracking on Large-Scale Text Stream”. IEEE Access, 7, 30913-30924. (Impact factor=3.745)
+* Huang, J., Li, J., Chen, Y., **Sun, J.**, & Shi, P. &ldquo;Burst Hotspots Dynamic Detection and Tracking on Large-Scale Text Stream&rdquo;. IEEE Access, 7, 30913-30924. (Impact factor=3.745)
 
-* **Sun, J.**, Wang, Z., Luo, X., Shi, P., Wang, W., Wang, L., Wang, J. H., & Zhao, W. “A parallel recommender system using a collaborative filtering algorithm with correntropy for social networks”. IEEE Transactions on Network Science and Engineering, 2018. (Impact factor=5.213)
+* **Sun, J.**, Wang, Z., Luo, X., Shi, P., Wang, W., Wang, L., Wang, J. H., & Zhao, W. &ldquo;A parallel recommender system using a collaborative filtering algorithm with correntropy for social networks&rdquo;. IEEE Transactions on Network Science and Engineering, 2018. (Impact factor=5.213)
 
-* Luo, X., **Sun, J.**, Wang, L., Wang, W., Zhao, W., Wu, J., Wang, J. H. & Zhang, Z. “Short-term wind speed forecasting via stacked extreme learning machine with generalized correntropy”. IEEE Transactions on Industrial Informatics, 2018. (Impact factor=9.112, ESI Top Highly Cited Paper)
+* Luo, X., **Sun, J.**, Wang, L., Wang, W., Zhao, W., Wu, J., Wang, J. H. & Zhang, Z. &ldquo;Short-term wind speed forecasting via stacked extreme learning machine with generalized correntropy&rdquo;. IEEE Transactions on Industrial Informatics, 2018. (Impact factor=9.112, ESI Top Highly Cited Paper)
   
 Service
 ======
