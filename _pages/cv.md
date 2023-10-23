@@ -30,10 +30,10 @@ Peer-refereed journal publications
 
 * Luo, X., **Sun, J.**, Wang, L., Wang, W., Zhao, W., Wu, J., Wang, J. H. & Zhang, Z. &ldquo;Short-term wind speed forecasting via stacked extreme learning machine with generalized correntropy&rdquo;. IEEE Transactions on Industrial Informatics, 2018, 14(11): 4963-4971. (Impact factor=12.3, ESI Top Highly Cited Paper)
 
-* Zhang, G., **Sun, J.**, Xu, F., Bandara, H.D., Chen, S., Sui, Y., & Menzies, T. &ldquo;A Tale of Two Cities: Data and Configuration Variances in Robust Deep Learning&rdquo;. ArXiv, abs/2211.10012, 2022.
+* Zhang, G., **Sun, J.**, Xu, F., Bandara, H.D., Chen, S., Sui, Y., & Menzies, T. &ldquo;A tale of two cities: Data and configuration variances in robust deep learning&rdquo;. ArXiv, abs/2211.10012, 2022.
 
 
-* Wang, L., **Sun, J.**, Luo, X., et al. &ldquo;Transferable features from 1D-Convolutional Network for Industrial Malware Classification&rdquo;. CMES-Computer Modeling in Engineering & Sciences, 2022, 130(2): 1003-1016. (Impact factor=2.4) 
+* Wang, L., **Sun, J.**, Luo, X., et al. &ldquo;Transferable features from 1D-convolutional network for industrial Malware classification&rdquo;. CMES-Computer Modeling in Engineering & Sciences, 2022, 130(2): 1003-1016. (Impact factor=2.4) 
 
 * Yang, P., Luo, X., **Sun, J.** &ldquo;A simple but effective method for balancing detection and re-identification in multi-object tracking&rdquo;. IEEE Transactions on Multimedia, 2022. (Impact factor=7.3, Early Access)  
 
