@@ -22,7 +22,7 @@ Education
 Peer-refereed journal publications
 ======
 
-* **Sun, J.**, Luo, X., Wang, W., Gao, Y., & Zhao, W. Robust Malware identification via deep temporal convolutional network with symmetric cross entropy learning. IET Software, 2023, 17, 392-404. (Impact factor=1.6)
+* **Sun, J.**, Luo, X., Wang, W., Gao, Y., & Zhao, W. &ldquo;Robust Malware identification via deep temporal convolutional network with symmetric cross entropy learning&rdquo;. IET Software, 2023, 17, 392-404. (Impact factor=1.6)
 
 * **Sun, J.**, Luo, X., Gao, H., Wang, W., Gao, Y., & Yang, X. &ldquo;Categorizing malware via a word2vec-based temporal convolutional network scheme&rdquo;. Journal of Cloud Computing, 2020, 9(53). (Impact factor=4.0)
 
@@ -30,14 +30,14 @@ Peer-refereed journal publications
 
 * Luo, X., **Sun, J.**, Wang, L., Wang, W., Zhao, W., Wu, J., Wang, J. H. & Zhang, Z. &ldquo;Short-term wind speed forecasting via stacked extreme learning machine with generalized correntropy&rdquo;. IEEE Transactions on Industrial Informatics, 2018, 14(11): 4963-4971. (Impact factor=12.3, ESI Top Highly Cited Paper)
 
-Zhang, G., **Sun, J.**, Xu, F., Bandara, H.D., Chen, S., Sui, Y., & Menzies, T. (2022). A Tale of Two Cities: Data and Configuration Variances in Robust Deep Learning. ArXiv, abs/2211.10012.
+* Zhang, G., **Sun, J.**, Xu, F., Bandara, H.D., Chen, S., Sui, Y., & Menzies, T. &ldquo;A Tale of Two Cities: Data and Configuration Variances in Robust Deep Learning&rdquo;. ArXiv, abs/2211.10012, 2022.
 
 
-Wang, L., **Sun, J.**, Luo, X., et al. Transferable features from 1D-Convolutional Network for Industrial Malware Classification. CMES-Computer Modeling in Engineering & Sciences, 2022, 130(2): 1003-1016. (Impact factor=2.4) 
+* Wang, L., **Sun, J.**, Luo, X., et al. &ldquo;Transferable features from 1D-Convolutional Network for Industrial Malware Classification&rdquo;. CMES-Computer Modeling in Engineering & Sciences, 2022, 130(2): 1003-1016. (Impact factor=2.4) 
 
-Yang, P., Luo, X., **Sun, J.** A simple but effective method for balancing detection and re-identification in multi-object tracking. IEEE Transactions on Multimedia, 2022. (Impact factor=7.3, Early Access)  
+* Yang, P., Luo, X., **Sun, J.** &ldquo;A simple but effective method for balancing detection and re-identification in multi-object tracking&rdquo;. IEEE Transactions on Multimedia, 2022. (Impact factor=7.3, Early Access)  
 
-Yang, P., Luo, X., **Sun, J.** IAMPDNet: Instance-aware and multi-part decoupled network for joint detection and embedding. Journal of Internet Technology, 2022, 23(6): 1429-1439. (Impact factor=1.6) 
+* Yang, P., Luo, X., **Sun, J.** &ldquo;IAMPDNet: Instance-aware and multi-part decoupled network for joint detection and embedding&rdquo;. Journal of Internet Technology, 2022, 23(6): 1429-1439. (Impact factor=1.6) 
 
   
 Service
