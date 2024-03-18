@@ -11,7 +11,7 @@ redirect_from:
 
 Research overview
 ======
-Jiankun Sun received the B.Sc. degree with honors in Computer Science and Technology from [University of Science and Technology Beijing](https://en.ustb.edu.cn/) in 2017. He reveived the Ph.D. degree from the School of Computer and Communication Engineering, University of Science and Technology Beijing in 2023. His research interests include computational intelligence, computer security, and responsible AI. His recent research focuses on malware detection and analysis. Jiankun Sun has published in his areas of interest in several journals, such as IEEE TRANSACTIONS ON INDUSTRIAL INFORMATICS, IEEE TRANSACTIONS ON NETWORK SCIENCE AND ENGINEERING, and JOURNAL OF CLOUD COMPUTING.
+Jiankun Sun received the B.Sc. degree with honors in Computer Science and Technology from [University of Science and Technology Beijing](https://en.ustb.edu.cn/) in 2017. He received his PhD from the School of Computer and Communication Engineering, University of Science and Technology Beijing in 2023. His research interests include cyberspace security, computational intelligence, and responsible AI. His recent research focuses on cyberspace measurement and malware analysis. Jiankun Sun has published in his areas of interest in several journals, including IEEE TRANSACTIONS ON INDUSTRIAL INFORMATICS, IEEE TRANSACTIONS ON DEPENDABLE AND SECURE COMPUTING, and IEEE TRANSACTIONS ON NETWORK SCIENCE AND ENGINEERING.
 
 Education
 ======
@@ -32,8 +32,9 @@ Peer-refereed journal publications
 
 * Zhang, G., **Sun, J.**, Xu, F., Bandara, H.D., Chen, S., Sui, Y., & Menzies, T. &ldquo;A tale of two cities: Data and configuration variances in robust deep learning&rdquo;. ArXiv, abs/2211.10012, 2022.
 
-
 * Wang, L., **Sun, J.**, Luo, X., et al. &ldquo;Transferable features from 1D-convolutional network for industrial Malware classification&rdquo;. CMES-Computer Modeling in Engineering & Sciences, 2022, 130(2): 1003-1016. (Impact factor=2.4) 
+
+* Xie, Y., Luo, X., **Sun, J.** &ldquo;Towards enhancing sequence-optimized Malware representation with context-separated bi-directional long short-term memory and proximal policy optimization&rdquo;. IEEE Transactions on Dependable and Secure Computing, 2024. (Impact factor=7.3, Early Access)
 
 * Yang, P., Luo, X., **Sun, J.** &ldquo;A simple but effective method for balancing detection and re-identification in multi-object tracking&rdquo;. IEEE Transactions on Multimedia, 2022. (Impact factor=7.3, Early Access)  
 
