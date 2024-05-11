@@ -15,7 +15,6 @@ Jiankun Sun received the B.Sc. degree with honors in Computer Science and Techno
 
 Education
 ======
-* PostDoc at University of Science and Technology Beijing, 2023.7-
 * Ph.D at University of Science and Technology Beijing, 2017.9-2023.6
 * Visiting scholar at University of Technology Sydney, 2022.6-2022.12
 * B.Eng. at University of Science and Technology Beijing, 2013.9-2017.6
