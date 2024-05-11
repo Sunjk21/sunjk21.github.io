@@ -11,7 +11,7 @@ redirect_from:
 
 Research overview
 ======
-Jiankun Sun received the B.Sc. degree with honors in Computer Science and Technology from [University of Science and Technology Beijing](https://en.ustb.edu.cn/) in 2017. He received his PhD from the School of Computer and Communication Engineering, University of Science and Technology Beijing in 2023. He is currently a Postdoc at USTB. His research interests include cyberspace security, computational intelligence, and responsible AI. His recent research focuses on cyberspace measurement and malware analysis. Jiankun Sun has published in his areas of interest in several journals, including IEEE TRANSACTIONS ON INDUSTRIAL INFORMATICS, IEEE TRANSACTIONS ON DEPENDABLE AND SECURE COMPUTING, and IEEE TRANSACTIONS ON NETWORK SCIENCE AND ENGINEERING.
+Jiankun Sun received the B.Sc. degree with honors in Computer Science and Technology from [University of Science and Technology Beijing](https://en.ustb.edu.cn/) in 2017. He received his PhD from the School of Computer and Communication Engineering, University of Science and Technology Beijing in 2023. His research interests include cyberspace security, computational intelligence, and responsible AI. His recent research focuses on cyberspace measurement and malware analysis. Jiankun Sun has published in his areas of interest in several journals, including IEEE TRANSACTIONS ON INDUSTRIAL INFORMATICS, IEEE TRANSACTIONS ON DEPENDABLE AND SECURE COMPUTING, and IEEE TRANSACTIONS ON NETWORK SCIENCE AND ENGINEERING.
 
 Education
 ======
